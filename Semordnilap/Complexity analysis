@@ -1,0 +1,7 @@
+# Time complexity:
+The time complexity for this solution is O(n*m) where n is the length of the given array "words" and
+m is the largest string of the  words array.
+
+# Space complexity:
+Here space complexity is constant O(1) as I am not using any separate set/list.
+Note: Use set if strings are not unique in the words array.
