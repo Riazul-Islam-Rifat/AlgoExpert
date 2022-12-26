@@ -1,0 +1,5 @@
+# Time complexity:
+The solution takes o(n) time complexity as the  given array is iterated
+
+# Space complexity:
+In the solution a list named tracker is used hence it takes o(n) space complexity.
