@@ -1,4 +1,6 @@
 def twoNumberSum(array, targetSum):
+
+    # As the given array contains distinct integers only hence I am not using any separate set for my solution
     tracker = []
     for item in array:
         # difference = targetSum-item
