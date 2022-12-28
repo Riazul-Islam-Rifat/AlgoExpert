@@ -2,4 +2,4 @@
 The solution takes O(n) time complexity as the  given array is iterated
 
 # Space complexity:
-In the solution a list named tracker is used hence it takes O(n) space complexity.
+O(1) [Constant space] as we are not storing anything that depends on the length of input.
