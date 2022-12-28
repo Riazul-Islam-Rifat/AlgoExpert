@@ -1,7 +1,7 @@
 # Time complexity
+- Assuming N is the length of arrayOne and M is the length of arrayTwo
 O(NlogN) + O(MlogM)
-O(N+M) doesn't have any effect over O(NlogN) + O(MlogM).
-O(N+M) for while loop.
+O(N+M) doesn't have any effect over O(NlogN) + O(MlogM). [O(N+M) for while loop.]
 
-Space Complexity:
+# Space Complexity:
 O(1) [Constant space] as we are not storing anything that depends on the length of input.
