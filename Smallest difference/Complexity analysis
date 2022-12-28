@@ -1,0 +1,7 @@
+# Time complexity
+O(NlogN) + O(MlogM)
+O(N+M) doesn't have any effect over O(NlogN) + O(MlogM).
+O(N+M) for while loop.
+
+Space Complexity:
+O(1) [Constant space] as we are not storing anything that depends on the length of input.
