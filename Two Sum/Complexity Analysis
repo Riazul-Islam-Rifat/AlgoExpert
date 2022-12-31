@@ -1,5 +1,0 @@
-# Time complexity:
-The solution takes O(n) time complexity as the  given array is iterated
-
-# Space complexity:
-O(1) [Constant space] as we are not storing anything that depends on the length of input.
