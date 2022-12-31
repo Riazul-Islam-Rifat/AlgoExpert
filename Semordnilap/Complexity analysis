@@ -1,8 +1,0 @@
-# Time complexity:
-The time complexity for this solution is O(n*m) where n is the length of the given array "words" and
-m is the largest string of the  words array.
-
-# Space complexity:
-Here space complexity is O(m) where m is the largest string saved in reversed variable.
-As I am not using any separate set/list, hence space complexity is not o(n*m).
-Note: Use set if strings are not unique in the words array.
