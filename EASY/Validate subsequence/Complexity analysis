@@ -1,0 +1,5 @@
+Time complexity:
+O(n) where n is the length of array
+
+Space complexity:
+o(1) constant space for sequence_tracker
