@@ -1,0 +1,6 @@
+Time complexity:
+-n is the length of the given array
+-O(n) as we are only traversing the array
+
+Space complexity:
+O(n) as we are creating an array of length n
