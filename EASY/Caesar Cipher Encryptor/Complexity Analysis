@@ -1,5 +1,5 @@
 Time complexity:
-O(n)
+O(n) # As we are iterating the given string
 
 Space complexity:
-O(n)
+O(n) # For the array
