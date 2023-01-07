@@ -1,0 +1,5 @@
+Time complexity:
+O(nlogn) because of sorting the given array.
+
+Space complexity:
+O(1)
