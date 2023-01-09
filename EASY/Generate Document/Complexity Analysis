@@ -1,0 +1,8 @@
+Time complexity:
+O(n+m)
+
+-- O(n) for --> character_count = Counter(characters)
+-- O(m) for traversing the document
+
+Space Complexity:
+O(C)  || C is the length of character_count or Unique character in the characters string.
