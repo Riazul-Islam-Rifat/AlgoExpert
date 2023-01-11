@@ -1,0 +1,8 @@
+Time complexity:
+O(n) as we are traversing the given string of length n.
+2 for loops. Hence O(n+n)==> O(2n) == O(n)
+
+Space complexity:
+O(1)
+Though a dictionary is used but it's length can never be greater than 26 as input string only contains lower case
+English alphabet. Max length could be O(26) == O(1) # As constant.
