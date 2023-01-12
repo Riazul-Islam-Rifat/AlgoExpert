@@ -1,0 +1,9 @@
+Time complexity:
+Average
+O(log(n)) where n is the number of nodes in the given tree
+Worst
+O(n) if the tree contains only single node for all the nodes.
+
+Space Complexity:
+
+Always O(1) as we are solving the problem iteratively instead of recursively.
