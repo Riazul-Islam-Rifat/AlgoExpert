@@ -1,0 +1,5 @@
+Time complexity:
+O(n) where n is the number of nodes
+
+Space Complexity:
+O(h) where h is the highest depth of the tree
