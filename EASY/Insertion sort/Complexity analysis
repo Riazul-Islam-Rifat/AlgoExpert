@@ -1,0 +1,6 @@
+Time complexity:
+Worst/Average -- > O(n^2)
+Best --> O(n) when the array is already sorted.
+
+Space complexity:
+O(1) # We are only doing inplace change in the given array
