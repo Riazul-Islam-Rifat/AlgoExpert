@@ -1,0 +1,17 @@
+Time complexity:
+Recursion without memoize[Dictionary] -- > O(2^n) as same function is called for multiple times,
+    for instance fib(2) is called several times when n is greater than or equal to 4.
+
+Recursion with memoize[Dictionary] -- > O(n) as same function is  not called for multiple times,
+    for instance fib(2) is called only once when n is greater than or equal to 4 as it will be stored in memoize
+    after it's first call.
+
+Iterative --> O(n) as iterates upto n.
+
+
+Space complexity:
+Recursion without memoize[Dictionary] -- > O(n) # Call stack issue for recursive call.
+
+Recursion with memoize[Dictionary] -- > O(n) #  Call stack issue for recursive call.
+
+Iterative --> O(1)
