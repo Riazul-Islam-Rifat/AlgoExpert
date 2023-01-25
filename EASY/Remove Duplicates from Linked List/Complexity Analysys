@@ -1,0 +1,6 @@
+Time Complexity:
+O(n) as we iterate all the elements for once though nested loop is used.
+- Duplicates elements are not iterated by the first while loop.
+
+Space Complexity:
+O(1) as we are only using constant variables.
