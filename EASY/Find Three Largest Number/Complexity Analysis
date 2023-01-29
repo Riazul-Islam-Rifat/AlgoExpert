@@ -1,0 +1,5 @@
+Time Complexity:
+O(N)
+
+Space Complexity:
+O(1) as the length of ThreeLargest array is constant(3) and not proportional to the input array.
