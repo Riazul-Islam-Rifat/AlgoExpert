@@ -1,0 +1,7 @@
+Time Complexity:
+O(NLOGN) --> For sorting
+O(NLOGN) > O(N) [For loop O(N)]
+O(NLOGN) + O(N)  --> O(NLOGN)
+
+Space Complexity:
+O(1) as in place sorting
