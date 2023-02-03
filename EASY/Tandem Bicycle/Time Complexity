@@ -1,0 +1,5 @@
+# Time Complexity:
+# O(nlogn) for sorting two lists. For loop executes in O(n) run time so it's ignored.
+
+# Space Compplexity:
+# O(1)
