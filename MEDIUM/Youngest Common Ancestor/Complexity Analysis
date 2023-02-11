@@ -1,0 +1,5 @@
+Time Complexity:
+O(D) where D is the highest depth of given descendants
+
+Space Complexity:
+O(1)
