@@ -1,0 +1,5 @@
+Time complexity:
+O(V+E) Where V is number of vertices/Nodes and E is number of Edges
+
+Space Complexity:
+O(V)  For the colors array / Number of frames in call stacks
