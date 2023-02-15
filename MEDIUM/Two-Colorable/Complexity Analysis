@@ -1,0 +1,5 @@
+Time complexity:
+O(V+E) --> V (Number of vertex), E (NUmber of edges)
+
+Space Complexity:
+O(V). V (Size of colors array) / stack in rare case.
