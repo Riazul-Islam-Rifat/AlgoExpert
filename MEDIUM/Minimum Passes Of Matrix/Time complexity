@@ -1,0 +1,5 @@
+Time complexity:
+O(row * column)  --> O(n) --> All elements in row and column
+
+Space complexity:
+O(row * column)
