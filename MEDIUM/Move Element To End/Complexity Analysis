@@ -1,0 +1,5 @@
+Time Complexity:
+O(n). Here n is the length of given input. And each element of this input is traversed once.
+
+Space complexity:
+O(1) as we are not using any auxiliary data structure.
