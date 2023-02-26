@@ -1,0 +1,5 @@
+Time complexity:
+O(N) as we iterate all the elements of the given array
+
+Space complexity:
+O(N) for the additional set data structure
