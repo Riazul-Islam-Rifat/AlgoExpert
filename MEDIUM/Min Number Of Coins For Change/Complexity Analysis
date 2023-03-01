@@ -1,0 +1,5 @@
+Time Complexity:
+O(n*d) where n is the length of the given demons array and d is the ways array
+
+Space Complexity:
+O(N) where N is the given amount we need to make
