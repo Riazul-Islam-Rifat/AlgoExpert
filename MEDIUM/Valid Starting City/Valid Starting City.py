@@ -1,3 +1,4 @@
+
 def validStartingCity(distances, fuel, mpg):
     cities = len(distances)
     milesRemaining = 0  # remaining fuel to cover distance
