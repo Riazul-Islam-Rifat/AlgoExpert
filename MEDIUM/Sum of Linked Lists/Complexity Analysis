@@ -1,0 +1,5 @@
+Time complexity:
+O(max(linkedListOne,linkedListTwo))
+
+Space complexity:
+O(max(linkedListOne,linkedListTwo))
