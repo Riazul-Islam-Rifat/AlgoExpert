@@ -1,0 +1,15 @@
+Time complexity:
+Searching Method O(n)
+Removal Method O(1)
+Remove node with value O(n)
+Insert before and insert after O(1)
+Insert at position O(P) # P is the position here
+Set head and set tail O(1)
+
+Space complexity:
+Searching Method O(1)
+Removal Method O(1)
+Remove node with value O(1)
+Insert before and insert after O(1)
+Insert at position O(1)
+Set head and set tail O(1)
