@@ -1,0 +1,8 @@
+Time complexity:
+O(h+k)
+--> O(h+k)-> To find the node that we are gonna visiting we need to traverse to it and at this will take at most O(h) times.
+--> We have to go down the tree at most h time and after we have gone down the tree h times,
+--> we are gonna have to visit k nodes. So time complexity O(h+K)
+
+Space complexity:
+O(h) --> As storing recursive calls in recursive stack
