@@ -1,0 +1,5 @@
+Time Complexity:
+O(N) --> As we need to traverse all the nodes
+
+Space Complexity:
+O(N) --> For the returned array
