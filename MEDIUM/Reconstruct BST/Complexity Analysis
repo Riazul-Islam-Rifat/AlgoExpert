@@ -1,0 +1,5 @@
+Time complexity:
+O(N) recursive function is called N times.
+
+Space complexity:
+O(h) h call on the recursive call stack
