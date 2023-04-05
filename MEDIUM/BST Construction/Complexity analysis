@@ -1,0 +1,6 @@
+Time complexity:
+Average O(log(n))
+Worst O(n)
+
+Space complexity:
+O(1) is both cases.
