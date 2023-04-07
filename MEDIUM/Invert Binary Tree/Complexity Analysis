@@ -1,0 +1,8 @@
+Time complexity:
+O(N) --> Both for iterative and recursive solution
+
+Space Complexity:
+O(N) --> For iterative solution [Roughly MAX N/2 leaf nodes will be in the queue] O(N/2)--> O(N)
+O(D) or O(logN)  --> For recursive call stack. Depth of a binary tree is O(logN)
+
+## N is the number of nodes in the tree.
