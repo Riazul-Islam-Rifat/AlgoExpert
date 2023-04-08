@@ -1,0 +1,7 @@
+Time complexity:
+O(N)
+
+Space complexity:
+O(D) --> Longest depth of the tree.
+# For the recursive call stack.
+O(N) --> For imbalanced binary tree
