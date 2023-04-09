@@ -15,7 +15,6 @@ def CreateMinHeightBST(array, StartIndex, EndIndex):
 
     return Bst
 
-
 class BST:
     def __init__(self, value):
         self.value = value
