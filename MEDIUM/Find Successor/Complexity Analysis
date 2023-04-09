@@ -1,0 +1,5 @@
+Time complexity:
+O(h) as we don't visit all the nodes
+
+Space Complexity:
+O(1)
