@@ -1,0 +1,5 @@
+Time Complexity:
+O(n) --> Number of nodes in smaller tree
+
+Space Complexity:
+O(h) --> Height of smaller tree
