@@ -1,0 +1,5 @@
+Time complexity:
+O(n*m) # n is the length of the given list, m is the max length of the strings inside the given list
+
+Space Complexity:
+O(m)
