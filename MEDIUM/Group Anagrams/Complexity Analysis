@@ -1,0 +1,5 @@
+Time complexity:
+O(w*n*log(n)) # Iterate w times and sort strings of length n at max
+
+Space complexity:
+O(wn) # List of w length and the list contains strings which might take at most n space
