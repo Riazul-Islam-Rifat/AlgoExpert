@@ -1,0 +1,5 @@
+Time complexity:
+O(n*l) --> l is the longest word, n is the number of words
+
+Space complexity:
+O(c)  --> C is the number of unique characters
