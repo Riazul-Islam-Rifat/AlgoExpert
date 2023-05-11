@@ -1,0 +1,5 @@
+Time complexity:
+O(n)
+--> The inner while loop doesn't create O(n^2) because at most we pop out n elements but not in every iteration.
+Space complexity:
+O(n)
