@@ -1,5 +1,5 @@
 Time complexity:
 O(n^2)
-
+--> For insertion we might need to iterate n times each time.
 Space complexity:
-O(n)
+O(n) --> For the recursive call stack.
