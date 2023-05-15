@@ -1,0 +1,6 @@
+Time complexity:
+O(N)
+--> At most 2N times all the elements will be traversed.
+
+Space Complexity:
+O(N)
