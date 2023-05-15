@@ -1,0 +1,5 @@
+Time complexity:
+O(row+col) --> At most all the elements will be traversed
+
+Space Complexity:
+O(1)
