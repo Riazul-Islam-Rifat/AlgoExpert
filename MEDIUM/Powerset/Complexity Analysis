@@ -1,4 +1,4 @@
 # Time complexity:
-# O(2^n * n) --> We need to create 2^n subsets and each subset taked in average O(n/2)==O(n) times
+# O(2^n * n) --> We need to create 2^n subsets and each subset takes in average O(n/2)==O(n) times
 # Space complexity
 # O(2^n * n) --> We need to store 2^n subsets and each subset is length of in average O(n/2)==O(n) times
