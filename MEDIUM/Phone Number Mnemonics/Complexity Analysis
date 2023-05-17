@@ -1,0 +1,5 @@
+# Time complexity:
+O(4^n * n) --> At most 4^n recursive call and O(n) to make the string
+
+# Space complexity:
+O(4^n * n) --> At most 4^n recursive call and O(n) to store the string
