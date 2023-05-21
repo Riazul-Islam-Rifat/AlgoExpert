@@ -1,0 +1,13 @@
+#  Build Suffix Trie Construction
+        # Time complexity:
+        # O(n^2)
+        # Space complexity
+        # O(n^2)
+        # Construct suffix trie
+
+# Search for strings in the trie
+
+# Time complexity:
+    # O(n)
+    # Space complexity
+    # O(1)
