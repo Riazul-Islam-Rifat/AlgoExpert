@@ -1,0 +1,7 @@
+Time complexity:
+Here time complexity depends on the slower pointer [first].
+O(N)
+
+
+Space Complexity:
+O(1)
