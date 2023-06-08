@@ -1,0 +1,5 @@
+Time complexity:
+O(N^2) // Worst--> O(N^3) when there are too many pairs in a pairSum key
+
+Space complexity:
+O(N^2)
