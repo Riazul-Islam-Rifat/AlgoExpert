@@ -1,0 +1,7 @@
+Time complexity:
+O(N^2)
+We iterate approximate N length of array N times
+
+Space complexity:
+O(N^2)
+We store N length of array N times
