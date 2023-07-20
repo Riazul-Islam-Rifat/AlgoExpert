@@ -1,0 +1,9 @@
+NON OPTIMAL
+
+Time complexity:
+O(nm * min(n,m))
+# min(n,m) for concatenation
+
+Space Complexity:
+O(nm * min(n,m))
+# min(n,m) for storing string[list] at each index
