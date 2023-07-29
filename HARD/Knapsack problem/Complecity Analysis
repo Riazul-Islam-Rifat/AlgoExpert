@@ -1,0 +1,5 @@
+Time complexity:
+O(Number of item * capacity)
+
+Space complexity:
+O(Number of item * capacity)
