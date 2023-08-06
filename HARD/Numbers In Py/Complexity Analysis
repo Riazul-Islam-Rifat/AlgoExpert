@@ -1,5 +1,5 @@
 Time complexity:
-O(N^3)
-
+O(N^3+m)
+# There might be n^2 prefixes in the number of pi and n is for slicing. So in total O(N^3) and m comes for creating the hash table
 Space complexity:
-O(n+m)
+O(n+m) # n number of recursive call and m is to store the hash table
