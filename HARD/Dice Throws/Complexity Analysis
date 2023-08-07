@@ -1,0 +1,6 @@
+Time complexity:
+O(numDice * Target * Num of sides)
+
+Space Complexity:
+O(numDice * Target) to store the values in 2D array.
+We can reduce it to O(Target) by using only 2 row in our 2D array as we always work with the current row and prev row
