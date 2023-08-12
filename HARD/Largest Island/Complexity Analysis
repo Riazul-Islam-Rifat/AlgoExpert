@@ -1,0 +1,7 @@
+Time complexity:
+O(row^2 * col^2)
+We iterate all the items and for each item we implement DFS which takes O(row * col) time
+
+Space complexity:
+O(row * col)
+For the visited list of lists
