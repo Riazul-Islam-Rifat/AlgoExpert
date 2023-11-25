@@ -1,0 +1,7 @@
+Time complexity:
+O(v^2 + e) in worst case scenario. [Use min heap for best case scenario O((v+e)logv)]
+
+Space Complexity:
+O(v)
+
+v---> Number of nodes
