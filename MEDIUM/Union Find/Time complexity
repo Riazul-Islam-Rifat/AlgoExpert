@@ -1,0 +1,2 @@
+Time complexity:
+O(n/height of the tree/len(parent)
