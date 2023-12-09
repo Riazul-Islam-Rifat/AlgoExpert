@@ -6,7 +6,7 @@ def minimumPassesOfMatrix(matrix):
             if matrix[row][col] > 0:
                 queue.append([row, col])
     passes = ConvertToPositive(matrix, queue)
-    if not ContainPositive(matrix):  # When it is imposible to convert all the negative numbers into positive form
+    if not ContainPositive(matrix):  # When it is impossible to convert all the negative numbers into positive form
         return -1
     else:
         return passes
